@@ -1,0 +1,31 @@
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\appsettings.Development.json
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\appsettings.json
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\Challenge Submission.staticwebassets.runtime.json
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\Challenge Submission.exe
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\Challenge Submission.deps.json
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\Challenge Submission.runtimeconfig.json
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\Challenge Submission.dll
+C:\cs\Challenge Submission\Challenge Submission\bin\Release\net7.0\Challenge Submission.pdb
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.csproj.AssemblyReference.cache
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.AssemblyInfoInputs.cache
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.AssemblyInfo.cs
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.csproj.CoreCompileInputs.cache
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.MvcApplicationPartsAssemblyInfo.cache
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.RazorAssemblyInfo.cache
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.RazorAssemblyInfo.cs
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\staticwebassets\msbuild.Challenge Submission.Microsoft.AspNetCore.StaticWebAssets.props
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\staticwebassets\msbuild.build.Challenge Submission.props
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.Challenge Submission.props
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.Challenge Submission.props
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\staticwebassets.pack.json
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\staticwebassets.build.json
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\staticwebassets.development.json
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\scopedcss\bundle\Challenge Submission.styles.css
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\scopedcss\projectbundle\Challenge Submission.bundle.scp.css
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.dll
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\refint\Challenge Submission.dll
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.pdb
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\Challenge Submission.genruntimeconfig.cache
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\ref\Challenge Submission.dll

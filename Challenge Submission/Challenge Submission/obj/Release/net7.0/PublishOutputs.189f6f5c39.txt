@@ -1,0 +1,7 @@
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\PubTmp\Out\Challenge Submission.exe
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\PubTmp\Out\Challenge Submission.dll
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\PubTmp\Out\Challenge Submission.deps.json
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\PubTmp\Out\Challenge Submission.runtimeconfig.json
+C:\cs\Challenge Submission\Challenge Submission\obj\Release\net7.0\PubTmp\Out\Challenge Submission.pdb
