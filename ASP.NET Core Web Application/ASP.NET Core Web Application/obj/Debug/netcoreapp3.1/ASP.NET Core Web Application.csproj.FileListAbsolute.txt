@@ -1,0 +1,54 @@
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.csproj.AssemblyReference.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.AssemblyInfoInputs.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.AssemblyInfo.cs
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.csproj.CoreCompileInputs.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.RazorAssemblyInfo.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.RazorAssemblyInfo.cs
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Web Application.StaticWebAssets.Manifest.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Web Application.StaticWebAssets.Pack.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.dll
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.pdb
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.exe
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.deps.json
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.runtimeconfig.json
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.runtimeconfig.dev.json
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.dll
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.pdb
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.Views.dll
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\bin\Debug\netcoreapp3.1\ASP.NET Core Web Application.Views.pdb
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.csproj.AssemblyReference.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.AssemblyInfoInputs.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.AssemblyInfo.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.csproj.CoreCompileInputs.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.MvcApplicationPartsAssemblyInfo.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.RazorAssemblyInfo.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.RazorAssemblyInfo.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Web Application.StaticWebAssets.Manifest.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Web Application.StaticWebAssets.Pack.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ASP.NET Core Web Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ASP.NET Core Web Application.props
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core Web Application.props
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ASP.NET Core Web Application.props
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.TagHelpers.input.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.TagHelpers.output.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.RazorCoreGenerate.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.RazorTargetAssemblyInfo.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.RazorTargetAssemblyInfo.cs
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.Views.pdb
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.dll
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.pdb
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.genruntimeconfig.cache
+C:\cs\ASP.NET Core Web Application\ASP.NET Core Web Application\obj\Debug\netcoreapp3.1\ASP.NET Core Web Application.csproj.CopyComplete
